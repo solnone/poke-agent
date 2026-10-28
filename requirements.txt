@@ -1,0 +1,8 @@
+# Requirements for Pokemon Showdown interaction
+poke-env
+gradio
+openai
+python-dotenv
+uvicorn
+fastapi
+requests
